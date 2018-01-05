@@ -1,0 +1,64 @@
+﻿
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h2>Index</h2>
+
+
+<div>
+
+    <div style="padding:10px">
+        Username: <input type="text" id="txtUsername" />
+        Password: <input type="password" id="txtPassword" />
+        <input id="btnVeriCek" type="button" value="WebApi'den Verileri Cek" class="btn btn-default" />
+    </div>
+    <div id="guncelle" style="width:90%; margin:0 auto;padding:10px">
+
+    </div>
+</div>
+@section scripts{
+    <script>
+        $(document).ready(function () {
+
+            $('#btnVeriCek').click(function () {
+
+                var username = $('#txtUsername').val();
+                var password = $('#txtPassword').val();
+
+                $.ajax({
+
+                    type: 'GET',
+                    url: 'http://localhost:3556/api/Kisiler',
+                    datatype: 'json',
+                    headers: {
+                        'Authorization': 'BasicAuthentication' + btoa(username + ':' + password)
+                    },
+                    success: function (data) {
+                        var $table = $('<table/>').addClass('table table-responsive table-striped table-bordered');
+                        var $header = $('<thead/>').html('<tr><th>Ad</th><th>Soyad</th><th>Yaş</th><th>Cinsiyet</th><th>E-Posta</th></tr>');
+                        $table.append($header);
+                        $.each(data, function (index, val) {
+                            var $row = $('<tr/>');
+                            $row.append($('<td/>').html(val.Ad));
+                            $row.append($('<td/>').html(val.Soyad));
+                            $row.append($('<td/>').html(val.Yas));
+                            $row.append($('<td/>').html(val.Cinsiyet));
+                            $row.append($('<td/>').html(val.EPosta));
+                            $table.append($row);
+                        });
+                        $('#guncelle').html($table);
+                    },
+                    error: function () {
+                        alert('Hata!');
+                    }
+                });
+            });
+        });
+    </script>
+
+}
+

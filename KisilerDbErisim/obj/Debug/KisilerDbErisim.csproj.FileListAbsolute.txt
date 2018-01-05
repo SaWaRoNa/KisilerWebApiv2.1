@@ -1,0 +1,39 @@
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\dbKisiler.mdf
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\dbKisiler_log.ldf
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.dll.config
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.pdb
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.csprojResolveAssemblyReference.cache
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.csproj.CoreCompileInputs.cache
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.pdb
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\dbKisiler.mdf
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\dbKisiler_log.ldf
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.dll.config
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.pdb
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.csprojResolveAssemblyReference.cache
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.csproj.CoreCompileInputs.cache
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.pdb
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\dbKisiler.mdf
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\dbKisiler_log.ldf
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.dll.config
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.pdb
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.csprojResolveAssemblyReference.cache
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.csproj.CoreCompileInputs.cache
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.pdb

@@ -1,0 +1,177 @@
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.csprojResolveAssemblyReference.cache
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.csproj.CoreCompileInputs.cache
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\ApplicationInsights.config
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\dbKisiler.mdf
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\dbKisiler_log.ldf
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\KisilerWebApi.dll.config
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\KisilerWebApi.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\KisilerWebApi.pdb
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Antlr3.Runtime.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\EntityFramework.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\EntityFramework.SqlServer.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\KisilerDbErisim.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.Web.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.ApplicationInsights.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Newtonsoft.Json.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Net.Http.Formatting.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Helpers.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.WebHost.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Mvc.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Optimization.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Razor.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Razor.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\WebGrease.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\KisilerDbErisim.pdb
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\KisilerDbErisim.dll.config
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\EntityFramework.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\EntityFramework.SqlServer.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Newtonsoft.Json.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Net.Http.Formatting.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Helpers.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.WebHost.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Mvc.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Optimization.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.Razor.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Razor.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Antlr3.Runtime.pdb
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.ApplicationInsights.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.Web.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.pdb
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\ApplicationInsights.config
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\dbKisiler.mdf
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\dbKisiler_log.ldf
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerWebApi.dll.config
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerWebApi.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerWebApi.pdb
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Antlr3.Runtime.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\EntityFramework.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerDbErisim.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Newtonsoft.Json.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Cors.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Helpers.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.Cors.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Mvc.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Optimization.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Razor.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\WebGrease.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerDbErisim.pdb
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerDbErisim.dll.config
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\EntityFramework.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Newtonsoft.Json.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Helpers.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Mvc.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Optimization.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Razor.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.csprojResolveAssemblyReference.cache
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.csproj.CoreCompileInputs.cache
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.dll
+C:\Users\SaWaRoNa\Desktop\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.pdb
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\ApplicationInsights.config
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\dbKisiler.mdf
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\dbKisiler_log.ldf
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerWebApi.dll.config
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerWebApi.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerWebApi.pdb
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Antlr3.Runtime.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\EntityFramework.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerDbErisim.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Newtonsoft.Json.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Cors.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Helpers.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.Cors.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Mvc.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Optimization.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Razor.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\WebGrease.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerDbErisim.pdb
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\KisilerDbErisim.dll.config
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\EntityFramework.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Newtonsoft.Json.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Helpers.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Mvc.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Optimization.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.Razor.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.csprojResolveAssemblyReference.cache
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.csproj.CoreCompileInputs.cache
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.dll
+C:\Users\SaWaRoNa\Desktop\ödev yedek - Kopya (2)\proje son düzenleme - Kopya\KisilerWebApi\KisilerWebApi\obj\Debug\KisilerWebApi.pdb
